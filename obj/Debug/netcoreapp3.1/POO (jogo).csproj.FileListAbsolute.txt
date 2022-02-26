@@ -1,0 +1,13 @@
+C:\DIO\POO (jogo)\bin\Debug\netcoreapp3.1\POO (jogo).exe
+C:\DIO\POO (jogo)\bin\Debug\netcoreapp3.1\POO (jogo).deps.json
+C:\DIO\POO (jogo)\bin\Debug\netcoreapp3.1\POO (jogo).runtimeconfig.json
+C:\DIO\POO (jogo)\bin\Debug\netcoreapp3.1\POO (jogo).runtimeconfig.dev.json
+C:\DIO\POO (jogo)\bin\Debug\netcoreapp3.1\POO (jogo).dll
+C:\DIO\POO (jogo)\bin\Debug\netcoreapp3.1\POO (jogo).pdb
+C:\DIO\POO (jogo)\obj\Debug\netcoreapp3.1\POO (jogo).csprojAssemblyReference.cache
+C:\DIO\POO (jogo)\obj\Debug\netcoreapp3.1\POO (jogo).AssemblyInfoInputs.cache
+C:\DIO\POO (jogo)\obj\Debug\netcoreapp3.1\POO (jogo).AssemblyInfo.cs
+C:\DIO\POO (jogo)\obj\Debug\netcoreapp3.1\POO (jogo).csproj.CoreCompileInputs.cache
+C:\DIO\POO (jogo)\obj\Debug\netcoreapp3.1\POO (jogo).dll
+C:\DIO\POO (jogo)\obj\Debug\netcoreapp3.1\POO (jogo).pdb
+C:\DIO\POO (jogo)\obj\Debug\netcoreapp3.1\POO (jogo).genruntimeconfig.cache
